@@ -1,9 +1,8 @@
 # Manual Page Commands:
-## Create a Man Page File
 #### nano mycommand.1
-## Install the Man Page:
+
 #### sudo cp mycommand.1 /usr/share/man/man1/
-## Update the man database to include your new man page.
+
 #### sudo mandb
 #### man mycommand
 # Snapshots
