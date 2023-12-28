@@ -3,6 +3,11 @@
 - sudo cp mycommand.1 /usr/share/man/man1/
 - sudo mandb
 - man mycommand
+
+  # Custom Linux Command:
+- nano mycommand
+- chmod +x mycommand
+
 # Snapshots
 ![Screenshot from 2023-12-28 19-17-03](https://github.com/sanjeevgangwar/Linux_task/assets/93440963/5ec0a31f-d0c1-4cb0-bc29-712acefeff53)
 
