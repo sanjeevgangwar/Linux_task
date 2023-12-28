@@ -3,3 +3,11 @@
 
 ![Screenshot from 2023-12-28 18-59-06](https://github.com/sanjeevgangwar/Linux_task/assets/93440963/1f3d9b19-e81f-46a7-9511-e770729c6d61)
 
+# Manual Page Commands:
+## Create a Man Page File
+#### nano mycommand.1
+## Install the Man Page:
+#### sudo cp mycommand.1 /usr/share/man/man1/
+## Update the man database to include your new man page.
+#### sudo mandb
+#### man mycommand
