@@ -4,7 +4,7 @@
 - sudo mandb
 - man mycommand
 
-  # Custom Linux Command:
+  # Create Custom Linux Command:
 - nano mycommand
 - chmod +x mycommand
 
